@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Granaditos83
 - 👀 I’m interested in el desarrollo web
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on en un equipo de desarrollo
 - 📫 How to reach me ...
 
 <!---
